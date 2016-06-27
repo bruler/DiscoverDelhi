@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">Discover-Delhi</string>
+
+
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+ 
+    <string name="nav_item_home">Home</string>
+    <string name="nav_item_friends">Friends</string>
+    <string name="nav_item_notifications">Messages</string>
+ 
+    <!-- navigation drawer item labels  -->
+    <string-array name="nav_drawer_labels">
+        <item>@string/nav_item_home</item>
+        <item>@string/nav_item_friends</item>
+        <item>@string/nav_item_notifications</item>
+    </string-array>
+ 
+    <string name="title_messages">Messages</string>
+    <string name="title_friends">Friends</string>
+    <string name="title_home">Home</string>
+
+    <!--  fragments' names (tab names) -->
+    <string name="fragment_a">Places</string>
+    <string name="fragment_b">Food</string>
+    <string name="fragment_c">Cool Stuff</string>
+
+
+
+
+    <!-- intro slider string values -->
+    <string name="title_activity_welcome">Discover Delhi</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+ 
+    <string name="slide_1_title">Hello Food!</string>
+    <string name="slide_1_desc">The easiest way to order food from your favourite restaurant!</string>
+ 
+    <string name="slide_2_title">Movie Tickets</string>
+    <string name="slide_2_desc">Book movie tickets for your family and friends!</string>
+ 
+    <string name="slide_3_title">Great Discounts</string>
+    <string name="slide_3_desc">Best discounts on every single service we offer!</string>
+ 
+    <string name="slide_4_title">World Travel</string>
+    <string name="slide_4_desc">Book tickets of any transportation and travel the world!</string>
+ 
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+
+
+
+
+
+    <string name="inbox_string">inbox</string>
+    <string name="starred_string">starred</string>
+    <string name="sent_mail_string">sent</string>
+    <string name="draft_string">draft</string>
+    <string name="all_mail_string">all mail</string>
+    <string name="trash_string">trash</string>
+    <string name="spam_string">spam</string>
+
+
+</resources>
